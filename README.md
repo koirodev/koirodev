@@ -1,1 +1,1 @@
-<a href='https://eto-anime.fun'><img src="contributions.svg"></a>
+<a href='https://koiro.pro'><img src="contributions.svg"></a>
