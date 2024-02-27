@@ -1,1 +1,1 @@
-<a href="https://github.com/koirodev" target="_blank"><img src="contributions.svg"></a>
+<a href="https://t.me/koirodev" target="_blank"><img src="contributions.svg"></a>
