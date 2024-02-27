@@ -1,1 +1,1 @@
-<a href='https://koiro.pro'><img src="contributions.svg"></a>
+<img src="contributions.svg">
