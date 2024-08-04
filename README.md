@@ -1,11 +1,3 @@
-<a href="https://www.codewars.com/users/koirodev" target="_blank">
-  <svg xmlns="http://www.w3.org/2000/svg" width="400" height="40" viewBox="0 0 400 40">
-    <path fill="#303133" d="M11.547 40L0 20 11.547 0h360.467v40z"/>
-    <text fill="#E8E8E8" font-family="Lato, HelveticaNeue, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="20" x="77" y="27">koirodev</text>
-    <path fill="#141414" d="M62.237 31.45L68.61 20 62.237 8.55H16.41L10.037 20l6.373 11.45z"/>
-    <text fill="#3C7EBB" font-family="Lato, HelveticaNeue, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14" x="32" y="18.77" text-anchor="middle" transform="translate(7 6)">4 kyu</text>
-    <path fill="#3C7EBB" d="M15.083 34L7 20l8.083-14H63.58l8.083 14-8.083 14H15.083zm46.614-3.233L67.919 20 61.697 9.233H16.95L10.728 20l6.222 10.767h44.747z"/>
-  </svg>
-</a>
+<a href="https://www.codewars.com/users/koirodev" target="_blank"><img src="codewars.svg"></a>
 <br>
 <a href="https://t.me/koirodev" target="_blank"><img src="contributions.svg"></a>
