@@ -25,4 +25,4 @@ If you have ideas for improvement or found an issue, feel free to create an [iss
 **Your support with a ⭐ on GitHub is much appreciated!**
 
 
-![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" style="height: auto; max-width: 100%">
