@@ -6,7 +6,6 @@ I'm currently actively working on **[Kordion](https://github.com/koirodev/kordio
 
 ### Why choose Kordion?
 [![npm downloads](https://img.shields.io/npm/dt/kordion?style=flat-square&color=red)](https://www.npmjs.com/package/kordion)
-[![npm popularity](https://img.shields.io/npm/dm/kordion?label=popularity&style=flat-square&color=blue)](https://www.npmjs.com/package/kordion)
 [![npm downloads](https://img.shields.io/npm/dw/kordion?style=flat-square&color=blue)](https://www.npmjs.com/package/kordion)
 
 - **Flexibility**: Easily customizable for any requirements.
