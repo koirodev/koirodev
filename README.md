@@ -1,6 +1,6 @@
 [![codewars](https://www.codewars.com/users/koirodev/badges/large)](https://www.codewars.com/users/koirodev)
 
-## Hello! 👋 I'm Vitalii Koiro
+## Hello! 👋 I'm Vitaly Koiro
 
 I'm currently actively working on **[Kordion](https://github.com/koirodev/kordion)** — a library for quickly creating flexible and stylish accordions for websites.
 
