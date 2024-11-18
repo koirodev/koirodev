@@ -23,6 +23,3 @@ npm install kordion
 If you have ideas for improvement or found an issue, feel free to create an [issue](https://github.com/koirodev/kordion/issues) or submit a pull request.
 
 **Your support with a ⭐ on GitHub is much appreciated!**
-
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" style="height: auto; max-width: 100%">
